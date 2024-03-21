@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onload="changeBackground()">
+    <p id="text">На това ще му сменим текста</p>
+    <p id="color" onmouseover="changeColor('red')" onmouseleave="changeColor('inherit')">На това ще му сменим цвета</p>
+
+    <button onclick="changeText()">Смени текста</button>
+    <p>Натиснете бутон и текста ще се смени</p>
+    
+    <script>
+        const textElement = document.getElementById("text");
+        const colorElement  = document.getElementById("color");
+        let textToReplace = "Нов текст";
+
+        window.addEventListener("keydown", () => {
+            
+                changeText();
+        });
+
+        function changeBackground() {
+            document.getElementsByTagName("body")[0].style.backgroundColor = "grey";
+        }
+
+        function changeText(){
+            textElement.innerText = textToReplace;
+        }
+
+        function changeColor(color){
+           colorElement.style.backgroundColor = color;
+        }
+    </script>
+
+</body>
+
+</html>
