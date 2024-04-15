@@ -12,27 +12,31 @@ This repository serves as a record of my journey through SoftUni's JavaScript Fr
 - Build interactive and responsive web applications.
 - Collaborate with peers and instructors to solve real-world coding challenges and projects.
 
-## Course Overview
-
-- **Module 1: Introduction to JavaScript**
-- **Module 2: DOM Manipulation**
-- **Module 3: Asynchronous JavaScript and AJAX**
-- **Module 4: JavaScript Frameworks and Libraries (e.g., React, Vue.js)**
-- **Module 5: Final Project - Building a Dynamic Web Application**
-
 ## Folder Structure
 
 - **Assignments**: Completed assignments organized by module.
-- **Projects**: Final projects developed throughout the course.
 - **Notes**: Personal notes, summaries, and additional resources.
 
 ## Progress
 
-- [x] Module 1: Introduction to JavaScript
-- [x] Module 2: DOM Manipulation
-- [ ] Module 3: Asynchronous JavaScript and AJAX
-- [ ] Module 4: JavaScript Frameworks and Libraries
-- [ ] Module 5: Final Project
+- [x] Module 1: JS Syntax Fundamentals
+- [x] Module 2: Exercise: JS Syntax Fundamentals
+- [x] Module 3: JS Arrays & Strings
+- [x] Module 4: Exercise: JS Arrays & Strings
+- [x] Module 5: Functions and Statements
+- [x] Module 6: Exercise: Functions and Statements
+- [x] Module 7: Objects and Classes
+- [x] Module 8: Exercise: Objects and Classes
+- [x] Module 9: DOM Introduction
+- [x] Module 10: Exercise: DOM Introduction
+- [x] Module 11: DOM Manipulation and Events
+- [x] Module 12: Exercise: DOM Manipulation and Events
+- [x] Module 13: HTTP and REST
+- [x] Module 14: Asynchronous Programming
+- [x] Module 15: Exercise: HTTP and AJAX
+- [x] Module 16: Exam Preparation
+- [x] Module 17: Exam Preparation
+- [x] Module 18: Regular Exam
 
 ## How to Use
 
@@ -45,6 +49,6 @@ This repository serves as a record of my journey through SoftUni's JavaScript Fr
 
 Join me on this exciting journey through SoftUni's JavaScript Front-End course! Let's learn, build, and innovate together! 💻✨
 
----
+## Certificate
 
-Feel free to customize this README to better reflect your experience and goals in the course!
+![JS Front-End - February 2024 - Certificate](https://github.com/Mart0GD/JavaScript-FrontEnd/assets/122825014/a25d19db-b7c8-41f1-8fa1-2236f791de5a)
