@@ -1,4 +1,4 @@
-#JavaScript Front-End Course
+# JavaScript Front-End Course
 
 Welcome to my progress tracker for SoftUni's JavaScript Front-End course! 🌟
 
